@@ -9,6 +9,8 @@
             <password>6aec5f2a78d185f14d3eaf39cae43152d49e9f21</password>
         </server>
     </servers>
+
+    
     <activeProfiles>
         <activeProfile>github</activeProfile>
     </activeProfiles>
