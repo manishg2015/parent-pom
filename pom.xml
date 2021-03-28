@@ -143,11 +143,11 @@
             <artifactId>springfox-swagger-ui</artifactId>
             <version>3.0.0</version>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>net.demo.myjava.util</groupId>-->
-<!--            <artifactId>myjava-authtoken-validator</artifactId>-->
-<!--            <version>1.0.1</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>myjava-authtoken-validator</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
@@ -212,5 +212,17 @@
             </plugin>
         </plugins>
     </build>
-
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/manishg2015/parent-pom</url>
+        </repository>
+    </distributionManagement>
+    <repositories>
+            <repository>
+                <id>github</id>
+                <url>https://maven.pkg.github.com/manishg2015/myjava-authtoken-validator</url>
+            </repository>
+    </repositories>
 </project>
