@@ -6,10 +6,9 @@
         <server>
             <id>github</id>
             <username>manishg2015</username>
-            <password>6aec5f2a78d185f14d3eaf39cae43152d49e9f21</password>
+            <password>bec270053688ba4719c05290677c9eedd8bc2cd1</password>
         </server>
     </servers>
-
     
     <activeProfiles>
         <activeProfile>github</activeProfile>
