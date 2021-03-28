@@ -6,11 +6,11 @@
         <server>
             <id>github</id>
             <username>manishg2015</username>
-            <password>6aec5f2a78d185f14d3eaf39cae43152d49e9f21</password>
+            <password>a695771d4859be924dd31f5fa089897b92bd88d2</password>
         </server>
     </servers>
 
-    
+
     <activeProfiles>
         <activeProfile>github</activeProfile>
     </activeProfiles>
