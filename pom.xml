@@ -223,6 +223,8 @@
             <repository>
                 <id>github</id>
                 <url>https://maven.pkg.github.com/manishg2015/myjava-authtoken-validator</url>
+                <releases><enabled>true</enabled></releases>
+                <snapshots><enabled>true</enabled></snapshots>
             </repository>
     </repositories>
 </project>
